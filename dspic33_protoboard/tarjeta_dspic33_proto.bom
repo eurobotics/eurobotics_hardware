@@ -1,0 +1,75 @@
+Partlist exported from /media/Datos/Javier/Proyectos/Eurobot 2010/eagle/tarjeta_dspic33_proto/tarjeta_dspic33_proto.sch at  7/24/2009 16:26:58 
+
+Qty Value               Device              Parts                                                                          
+1                       520470-3            J17                                                                            
+1                       DB9F/90             CON1                                                                           
+2                       JP2E                JP1, JP2                                                                       
+1                       JP4Q                JP3                                                                            
+1   +3V3                W237-02P            X1                                                                             
+1   +5V                 W237-02P            X2                                                                             
+1   +5V_+12V_OUT_1      22-27-2041-04       J10                                                                            
+1   +5V_+12V_OUT_2      22-27-2041-04       J11                                                                            
+1   +12V                W237-02P            X3                                                                             
+1   +24V                W237-02P            X4                                                                             
+2   0R                  R-US_0207/7         R37, R42                                                                       
+8   0R                  R-US_0309/10        R1, R2, R3, R7, R16, R17, R26, R27                                             
+1   1.43K/1%            R-US_0309/10        R40                                                                            
+1   1K                  R-US_0309/10        R5                                                                             
+4   1K2                 R-US_0309/10        R10, R11, R18, R19                                                             
+3   1K5                 R-US_0207/7         R28, R29, R30                                                                  
+1   3K9                 R-US_0207/7         R33                                                                            
+2   4K7                 R-US_0207/7         R31, R32                                                                       
+1   10K                 R-US_0204/7         R41                                                                            
+3   10K                 R-US_0207/7         R35, R44, R45                                                                  
+11  10K/1%              R-US_0309/10        R9, R13, R14, R15, R21, R23, R24, R25, R34, R36, R38                           
+1   10MHz               CRYSTALHC49U-H      Q1                                                                             
+1   10R                 R-US_0207/7         R43                                                                            
+2   10nF                C-EU050-024X044     C15, C20                                                                       
+2   10uF/10V            CPOL-USE3.5-10      C11, C24                                                                       
+1   10uF/16V            CPOL-USE3.5-8       C37                                                                            
+1   10uF/16V/lowESR     CPOL-USE3.5-8       C32                                                                            
+2   12R                 R-US_0309/10        R12, R22                                                                       
+2   15K/1%              R-US_0309/10        R8, R20                                                                        
+4   15nF                C-EU050-024X044     C12, C16, C18, C21                                                             
+2   22pF                C-EU050-024X044     C34, C35                                                                       
+1   33pF                C-EU050-024X044     C23                                                                            
+3   47uF/10V            CPOL-USE2-5         C1, C3, C7                                                                     
+17  100nF               C-EU050-024X044     C2, C4, C6, C8, C13, C22, C25, C26, C27, C28, C29, C30, C31, C33, C36, C38, C39
+1   187R/1%             R-US_0207/7         R39                                                                            
+2   220nF               C-EU050-024X044     C14, C19                                                                       
+1   220u/48V            CPOL-USE2-5         C5                                                                             
+2   220uF/48V           CPOL-USE3.5-10      C10, C17                                                                       
+1   220uV/48V           CPOL-USE2-5         C9                                                                             
+1   240R                R-US_0309/10        R4                                                                             
+1   317T                317T                IC2                                                                            
+1   500R                R-TRIMMT93YA        R6                                                                             
+1   ADR443              ADR443              IC12                                                                           
+1   BALIZA_CTRL_MOTOR   22-27-2031-03       J6                                                                             
+1   BALIZA_INDEX        22-27-2031-03       J7                                                                             
+1   BALIZA_SENSORES     22-27-2041-04       J5                                                                             
+4   BYW100              BYW100              D1, D2, D3, D4                                                                 
+1   COLOR               22-27-2021-02       J16                                                                            
+1   DSPIC33FJXXMC804SMD DSPIC33FJXXMC804SMD IC11                                                                           
+1   DT6                 DT6                 S1                                                                             
+1   ENC_DER             22-27-2041-04       J3                                                                             
+1   ENC_IZQ             22-27-2041-04       J4                                                                             
+1   GPIOS_I2C_1         22-27-2091-09       J8                                                                             
+1   GPIOS_I2C_2         22-27-2091-09       J9                                                                             
+2   L6203               L6203               IC3, IC5                                                                       
+1   LASER               22-27-2051-05       J13                                                                            
+1   LASER_ON            22-27-2021-02       J14                                                                            
+1   LM2940-3.3          LM317MABT           IC1                                                                            
+1   MAX232              MAX232              IC8                                                                            
+1   MAX3232ACPE         MAX232ACPE          IC9                                                                            
+2   MCP6022             OPA2344P            IC4, IC7                                                                       
+1   MCP32016            MCP32016            IC6                                                                            
+1   M_DER1_CTRL         22-27-2041-04       J2                                                                             
+1   M_DER1_POWER        W237-02P            X8                                                                             
+1   M_DER2              W237-02P            X5                                                                             
+1   M_IZQ1_CTRL         22-27-2041-04       J1                                                                             
+1   M_IZQ1_POWER        W237-02P            X6                                                                             
+1   M_IZQ2              W237-02P            X7                                                                             
+2   PTR1B2,54           PTR1B2,54           TP1, TP2                                                                       
+1   SPI_PORT            22-27-2051-05       J12                                                                            
+1   START               22-27-2021-02       J15                                                                            
+1   WT11A               WT11A               IC10                                                                           

@@ -1,0 +1,58 @@
+Partlist exported from /media/Datos/Javier/Proyectos/Proyectos_2010/Eurobot_2010/eagle/mainboard/mainboard_eurobotics2010_r12.sch at  2/17/2010 20:13:14 
+
+Qty Value               Device              Parts                                                                                    Order code
+1                       10-XX               S1                                                                                                 
+2                       22-27-2021-02       J3, J5                                                                                             
+14                      22-27-2031-03       J1, J6, J7, J8, J9, J10, J11, J15, J16, J17, J18, J19, J20, J21                                    
+6                       22-27-2041-04       J12, J13, J14, J22, J23, J24                                                                       
+2                       22-27-2051-05       J2, J4                                                                                             
+1                       DB9F/90             CON1                                                                                               
+1                       HDR-1X5-SIP-100     CN1                                                                                                
+1                       JP2E                JP1                                                                                                
+2                       JP3Q                JP2, JP3                                                                                           
+10                      LEDCHIP-LED0805     LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10                                        
+1                       ML10                SV1                                                                                                
+11                      W237-02P            X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11                                                       
+10  0R                  R-US_R0805          R1, R2, R5, R6, R7, R13, R20, R24, R67, R79                                                        
+2   1K                  R-US_R0805          R10, R11                                                                                           
+7   1K/1%               R-US_R0805          R72, R73, R74, R75, R81, R82, R83                                                                  
+1   1K6/1%              R-US_R0805          R12                                                                                                
+7   2K/1%               R-US_R0805          R70, R71, R76, R77, R80, R84, R85                                                                  
+10  2K2                 R-US_R0805          R55, R56, R59, R60, R61, R62, R63, R64, R68, R69                                                   
+1   2K7                 R-US_R0805          R9                                                                                                 
+18  4K7                 R-US_R0805          R16, R17, R22, R29, R34, R36, R38, R40, R42, R44, R46, R48, R49, R50, R51, R52, R53, R54           
+1   10K                 R-US_R0805          R21                                                                                                
+2   10MHz               CRYSTALHC49UP       Q1, Q2                                                                                             
+2   10uF/6V/lowESR      CPOL-USSMCA         C15, C21                                                                                           
+4   10uF/10V            C-EUC1206           C5, C28, C34, C40                                                                                  
+3   10uF/35V            C-EUC1206           C30, C31, C32                                                                                      
+4   22R                 R-US_R0805          R57, R58, R65, R66                                                                                 
+4   22pF                C-EUC0805           C17, C18, C23, C24                                                                                 
+1   47uF/6V             CPOL-USSMCD         C3                                                                                                 
+1   47uF/16V            CPOL-USSMCD         C12                                                                                                
+11  100nF               C-EUC0603           C14, C16, C19, C20, C22, C25, C43, C44, C45, C46, C47                                              
+16  100nF               C-EUC0805           C1, C4, C6, C7, C9, C11, C13, C27, C33, C35, C36, C37, C38, C39, C41, C42                          
+1   220uF/10V           CPOL-USE2.5-7       C2                                                                                                 
+2   220uF/35V           CPOL-USE5-10.5      C8, C10                                                                                            
+1   240R/1%             R-US_R0805          R8                                                                                                 
+6   270R                R-US_R0805          R4, R14, R15, R18, R19, R23                                                                        
+1   470R                R-US_R0805          R3                                                                                                 
+1   ADR443BRZ-R-8       ADR443              IC2                                                                                                
+3   ADS713              ADS713              IC15, IC16, IC18                                                                                   
+2   C1                  C-EUC0805           C26, C29                                                                                           
+2   DSPIC33FJXXMC804SMD DSPIC33FJXXMC804SMD IC4, IC5                                                                                           
+2   FUSETE5             FUSETE5             F1, F2                                                                                             
+1   G5LE                G5LE                K1                                                                                                 
+4   IRF7389             IRF7389             IC8, IC9, IC12, IC13                                                                               
+1   LM338T              LM317TS             IC3                                                                                                
+1   LM1086CT-3.3        LM317TS             IC1                                                                                                
+1   MAX232ACSE          MAX232ACSE          IC21                                                                                               
+3   MCP6022SN           OPA2344U            IC6, IC14, IC17                                                                                    
+7   NC                  R-US_R0805          R35, R37, R39, R41, R43, R45, R47                                                                  
+2   RA                  R-US_R0805          R27, R32                                                                                           
+2   RB                  R-US_R0805          R28, R33                                                                                           
+2   RC                  R-US_R0805          R26, R31                                                                                           
+2   RD                  R-US_R0805          R25, R30                                                                                           
+2   SS24                SCHOTTKY_SMB        D1, D2                                                                                             
+3   TC4427              TC4427OA            IC7, IC10, IC11                                                                                    
+2   WT11A               WT11A               IC19, IC20                                                                                         

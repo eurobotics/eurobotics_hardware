@@ -1,0 +1,205 @@
+;********************************************************************
+;                                                                   *
+; OrCAD Backannotation File                                         *
+;                                                                   *
+; E:\EUROBOT 2010\BALIZA FARO\DISENIO ELECTRONICO\MAIN\DESIGN1.MAX  *
+; Sun Sep 28 01:59:51 2014                                          *
+;                                                                   *
+;********************************************************************
+
+.Section1 Flags
+View=Physical
+DesignName=E:\EUROBOT 2010\BALIZA FARO\DISENIO ELECTRONICO\MAIN\DESIGN1.DSN
+.End
+
+.Section2 GateAndPinSwap
+ChangeRef	C17	C1
+ChangeRef	C15	C2
+ChangeRef	C7	C3
+ChangeRef	C8	C4
+ChangeRef	C18	C5
+ChangeRef	C19	C6
+ChangeRef	C14	C7
+ChangeRef	C10	C8
+ChangeRef	C13	C9
+ChangeRef	C12	C10
+ChangeRef	C1	C12
+ChangeRef	C4	C13
+ChangeRef	C6	C14
+ChangeRef	C2	C15
+ChangeRef	C3	C16
+ChangeRef	C5	C17
+ChangeRef	C16	C18
+ChangeRef	C9	C19
+ChangeRef	D3	D1
+ChangeRef	D1	D2
+ChangeRef	D2	D3
+ChangeRef	D6	D4
+ChangeRef	H8	H1
+ChangeRef	H7	H2
+ChangeRef	H6	H3
+ChangeRef	H5	H4
+ChangeRef	H3	H5
+ChangeRef	J4	J1
+ChangeRef	J7	J2
+ChangeRef	J9	J3
+ChangeRef	J8	J4
+ChangeRef	J2	J5
+ChangeRef	J10	J7
+ChangeRef	J3	J8
+ChangeRef	J5	J9
+ChangeRef	R201	R1
+ChangeRef	R23	R2
+ChangeRef	R6	R3
+ChangeRef	R200	R4
+ChangeRef	R9	R5
+ChangeRef	R22	R6
+ChangeRef	R3	R9
+ChangeRef	R5	R11
+ChangeRef	R1	R12
+ChangeRef	R11	R13
+ChangeRef	R2	R14
+ChangeRef	R4	R15
+ChangeRef	R15	R16
+ChangeRef	R16	R17
+ChangeRef	R17	R18
+ChangeRef	R14	R19
+ChangeRef	U2	U1
+ChangeRef	U9	U2
+ChangeRef	U4	U3
+ChangeRef	U8	U4
+ChangeRef	U7	U5
+ChangeRef	U1	U6
+ChangeRef	U10	U7
+ChangeRef	U5	U8
+ChangeRef	U3	U9
+ChangeRef	U6	U10
+.End
+
+.Section3 UpdateProperties Parts
+"{Reference}"	"PCB Footprint"	"FPLIST"	"COMPSIDE"	"COMPLOC"	"COMPROT"	"COMPGROUP"	"COMPFIXED"	"COMPLOCKED"	"COMPKEY"	"DECOUPLER"	"MEMORY"	"COMPHEIGHT"
+"C1"	"SM/C_1206"	""	"BOT"	"[24.790,54.661]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C2"	"SM/C_0805"	""	"TOP"	"[24.460,53.188]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C3"	"SM/C_0805"	""	"TOP"	"[19.964,53.188]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C4"	"SM/C_0805"	""	"TOP"	"[17.628,53.188]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C5"	"SM/C_0805"	""	"BOT"	"[37.440,48.565]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C6"	"SM/C_0805"	""	"BOT"	"[35.128,48.590]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C7"	"SM/C_0805"	""	"TOP"	"[31.293,43.688]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C8"	"SM/C_0805"	""	"TOP"	"[11.582,44.094]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C9"	"SM/C_0805"	""	"TOP"	"[31.090,37.998]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C10"	"CAP22UF10V"	"CAP22UF10V,CAP22UF10V_REV3"	"TOP"	"[29.794,34.061]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C11"	"CAP10UF16V_REV2"	"CAP22UF10V_REV4,CAP10UF16V_REV1,CAP10UF16V"	"TOP"	"[27.026,34.061]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C12"	"CAP220UF25V"	"CAP220UF25V"	"TOP"	"[37.998,27.610]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"C13"	"CAP220UF25V"	"CAP220UF25V"	"TOP"	"[27.838,28.626]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"C14"	"CAP22UF10V"	"CAP22UF10V,CAP22UF10V_REV1"	"BOT"	"[24.714,25.730]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C15"	"CAP22UF25V_REV1"	"CAP22UF25V"	"TOP"	"[21.387,21.996]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"C16"	"CAP22UF25V_REV2"	"CAP22UF25V"	"TOP"	"[17.297,21.996]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"C17"	"CAP22UF10V_REV2"	"CAP22UF10V"	"BOT"	"[24.714,22.758]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C18"	"SM/C_0805"	""	"BOT"	"[22.758,16.866]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"C19"	"CAP22UF25V"	"CAP22UF25V"	"BOT"	"[42.418,2.845]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"D1"	"SM/D_0805_12"	""	"TOP"	"[55.042,44.831]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"D2"	"SM/DO213AB_21"	""	"BOT"	"[45.517,39.014]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"D3"	"MBRS120T3_REV1"	"MBRS120T3"	"BOT"	"[37.236,6.909]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"D4"	"1N4148-SOD123"	"1N4148-SOD123"	"BOT"	"[20.726,7.925]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"F1"	"FUSEHOLDER_PCB2_REV1"	"FUSEHOLDER_PCB,FUSEHOLDER_PCB2"	"BOT"	"[48.539,26.314]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.000"
+"H1"	"TORNILLO_M3"	""	"TOP"	"[48.399,57.000]"	"0"	"0"	"YES"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"H2"	"TORNILLO_M3"	""	"TOP"	"[8.601,57.000]"	"0"	"0"	"YES"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"H3"	"TORNILLO_M3"	"TORNILLO_M3"	"TOP"	"[44.500,27.000]"	"0"	"0"	"YES"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"H4"	"TORNILLO_M3"	"TORNILLO_M3"	"TOP"	"[12.500,23.000]"	"0"	"0"	"YES"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"H5"	"TORNILLO_M3"	""	"TOP"	"[8.601,3.000]"	"0"	"0"	"YES"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J1"	"MOLEX 2 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/2,MOLEX 2 ACODADO"	"BOT"	"[46.867,49.627]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J2"	"CABLE PLANO 2X3"	""	"BOT"	"[6.560,43.598]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J3"	"TIRA DE PINES DE 5"	"SIP/TM/L.500/5"	"TOP"	"[2.845,51.206]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J4"	"MOLEX 4 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/4"	"BOT"	"[8.498,35.760]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J5"	"MOLEX 4 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/4,MOLEX 4 ACODADO"	"BOT"	"[48.969,14.820]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J6"	"MOLEX 4 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/4,MOLEX 4 ACODADO"	"TOP"	"[45.681,22.463]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J7"	"MOLEX 2 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/2"	"BOT"	"[8.501,24.218]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J8"	"MOLEX 3 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/3,MOLEX 3 ACODADO"	"BOT"	"[48.994,5.529]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"J9"	"MOLEX 3 ACODADO"	"POLCON.100/RH/TM1SQS/W.440/3"	"TOP"	"[45.682,10.608]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"L1"	"BOBINA DR1030 470UF_REV1"	"BOBINA DR1030 470UF"	"BOT"	"[25.375,12.192]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"Q1"	"SM/SOT23_BEC"	""	"BOT"	"[15.850,15.037]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R1"	"SM/R_0805"	""	"BOT"	"[40.640,57.302]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R2"	"SM/R_0805"	""	"BOT"	"[21.818,53.635]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R3"	"SM/R_0805"	""	"TOP"	"[49.276,45.415]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R4"	"SM/R_0805"	""	"BOT"	"[22.962,42.672]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R5"	"SM/R_0805"	""	"TOP"	"[29.058,40.843]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R6"	"SM/R_0805"	""	"BOT"	"[22.555,37.795]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R7"	"SM/R_0805"	""	"TOP"	"[1.952,33.603]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R8"	"SM/R_0805"	""	"TOP"	"[1.952,28.845]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R9"	"SM/R_0805"	""	"TOP"	"[49.174,27.432]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R10"	"SM/R_0805"	""	"TOP"	"[12.192,27.229]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R11"	"SM/R_0805"	""	"TOP"	"[42.266,17.272]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R12"	"SM/R_0805"	""	"TOP"	"[39.218,17.272]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R13"	"SM/R_0805"	""	"BOT"	"[20.320,14.834]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R14"	"SM/R_0805"	""	"TOP"	"[42.266,10.363]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R15"	"SM/R_0805"	""	"TOP"	"[39.218,10.363]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R16"	"SM/R_0805"	""	"BOT"	"[20.726,9.957]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R17"	"SM/R_0805"	""	"BOT"	"[17.678,9.957]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R18"	"SM/R_0805"	""	"BOT"	"[15.240,9.957]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"R19"	"SM/R_0805"	""	"TOP"	"[21.336,3.048]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"SW1"	"PULSADOR PEQUE"	""	"TOP"	"[4.810,35.028]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U1"	"MICROINTERRUPTOR_REV1"	"MICROINTERRUPTOR"	"TOP"	"[31.598,50.673]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"U2"	"SOG.050/8/WG.244/L.200"	""	"BOT"	"[23.774,46.736]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U3"	"QUAD.80M/44/WG12.00"	""	"TOP"	"[16.053,39.218]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U4"	"SOG.050/8/WG.244/L.200"	""	"BOT"	"[19.304,50.597]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U5"	"SOG.050/8/WG.244/L.200"	""	"BOT"	"[19.304,44.907]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U6"	"DC-DC ZY1207_REV1"	"DC-DC ZY1207"	"TOP"	"[36.424,31.420]"	"0"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.254"
+"U7"	"SOG.050/8/WG.244/L.200"	""	"BOT"	"[26.619,39.014]"	"270"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U8"	"TO261AA/SOT223"	""	"TOP"	"[21.946,30.277]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U9"	"SOG.050/8/WG.244/L.200"	"DIP.100/8/W.300/L.400"	"BOT"	"[37.186,17.272]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+"U10"	"WT11"	""	"TOP"	"[35.306,5.207]"	"90"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"1.000"
+"Y1"	"CRISTAL HC49"	""	"TOP"	"[19.990,57.048]"	"180"	"0"	"NO"	"NO"	"NO"	"NO"	"NO"	"0.025"
+.End
+
+.Section4 UpdateProperties Nets
+"{Net Name}"	"ROUTELAYERS"	"PLANELAYERS"	"NETWEIGHT"	"VIAPERNET"	"MINWIDTH"	"MAXWIDTH"	"WIDTHBYLAYER"	"SPACINGBYLAYER"	"CONNWIDTH"	"RECONNTYPE"	"TESTPOINT"	"HIGHLIGHT"	"NETGROUP"
+"+3.3V"	""	""	"50"	""	"0.381"	"1.270"	""	""	"0.381"	"STD"	"NO"	"NO"	"0"
+"+5V"	""	""	"50"	""	"0.381"	"1.270"	""	""	"0.381"	"STD"	"NO"	"NO"	"0"
+"+VBAT"	""	""	"50"	""	"0.381"	"1.270"	""	""	"0.381"	"STD"	"NO"	"NO"	"0"
+"+VSENSORES"	""	""	"50"	""	"0.381"	"1.270"	""	""	"0.381"	"STD"	"NO"	"NO"	"0"
+"BUMPER"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"CHA"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"CHB"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"CTS"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"EMUC"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"EMUD"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"GND"	""	""	"50"	""	"0.381"	"1.270"	""	""	"0.381"	"STD"	"NO"	"NO"	"0"
+"GND_EARTH"	""	""	"50"	""	"0.203"	"0.889"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"HERR1"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"HERR2"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"MCLR"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"MOTOR+"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"MOTOR-"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N901411"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1911702"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1911832"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1915462"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1926666"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1928270"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1929128"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1937443"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"NONE"	"NO"	"NO"	"0"
+"N1939776"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N1952852"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N2006443"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N2006480"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N2006915"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N19152860"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"N19153940"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"OSC1"	""	""	"100"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"OSC2"	""	""	"100"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"PH1"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"PH2"	""	""	"50"	""	"0.005"	"0.005"	""	""	"0.005"	"STD"	"NO"	"NO"	"0"
+"PZ2_1"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"PZ2_2"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"RESET"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"RESET_BLUE"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"RTS"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"RX_BLUE"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"SCL"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"SDA"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"TX_BLUE"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"VGS1"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"VGS2"	""	""	"50"	""	"0.203"	"1.270"	""	""	"0.254"	"STD"	"NO"	"NO"	"0"
+"VSENSE"	""	""	"50"	""	"0.005"	"0.005"	""	""	"0.005"	"STD"	"NO"	"NO"	"0"
+.End
+

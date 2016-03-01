@@ -1,0 +1,41 @@
+EAGLE Version 4.16 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check for D:/Javier/Proyectos/Proyectos_2010/Eurobot_2010/eagle/mainboard/sensorboard_eurobotics2010_r1.sch at 22/01/2010 00:41:25 
+
+WARNING: Only 1 Pin on net N$4
+WARNING: Only 1 Pin on net N$6
+WARNING: Only 1 Pin on net N$7
+WARNING: Only 1 Pin on net N$8
+WARNING: Only 1 Pin on net N$9
+WARNING: Only 1 Pin on net N$10
+WARNING: Only 1 Pin on net N$11
+WARNING: Only 1 Pin on net N$13
+WARNING: Only 1 Pin on net N$14
+WARNING: Only 1 Pin on net N$15
+WARNING: Only 1 Pin on net N$17
+WARNING: Only 1 Pin on net N$18
+WARNING: Only 1 Pin on net N$19
+WARNING: Only 1 Pin on net N$20
+WARNING: Only 1 Pin on net N$21
+WARNING: Only 1 Pin on net N$22
+WARNING: Only 1 Pin on net N$68
+WARNING: Only 1 Pin on net N$69
+WARNING: Only 1 Pin on net N$97
+WARNING: Only 1 Pin on net N$98
+WARNING: Only 1 Pin on net N$99
+WARNING: Only 1 Pin on net N$100
+WARNING: Only 1 Pin on net N$101
+WARNING: Only 1 Pin on net N$102
+WARNING: Only 1 Pin on net N$103
+WARNING: Only 1 Pin on net N$104
+WARNING: Only 1 Pin on net N$105
+WARNING: Only 1 Pin on net N$106
+WARNING: Only 1 Pin on net N$107
+WARNING: Only 1 Pin on net N$108
+WARNING: Only 1 Pin on net N$109
+WARNING: Only 1 Pin on net N$110
+
+Board and schematic are consistent
+
+    0 errors
+   32 warnings

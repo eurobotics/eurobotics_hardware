@@ -1,0 +1,122 @@
+*********************************************************************************
+*                                                                               *
+* PADSTACK REPORT                                                               *
+*                                                                               *
+* E:\EUROBOT 2010\ELECTRONICA\BALIZA FARO\DISENIO ELECTRONICO\MAIN\DESIGN1.MAX  *
+* Mon Oct 12 14:05:14 2009                                                      *
+*                                                                               *
+*********************************************************************************
+
+Note: Footprint and Component names may be truncated.
+
+PADSTACK               FOOTPRINT                      REFERENCE DESIGNATORS          
+-------------------------------------------------------------------------------------
+T1                     <unused>                       <unused>                                                          
+T2                     <unused>                       <unused>                                                          
+T7                     <unused>                       <unused>                                                          
+SM.llb_pad5_1          SM/C_0805,SM/R_0805            C2,C3,C4,C7,C8,C9,R3,R5,R7,                                       
+                                                      R8,R9,R10,R11,R12,R14,R15,R19                                     
+24_5_1                 <unused>                       <unused>                                                          
+24_7                   <unused>                       <unused>                                                          
+24_8_1                 <unused>                       <unused>                                                          
+24_4_1                 <unused>                       <unused>                                                          
+DIP100T.llb_pad4_1     PULSADOR PEQUE                 SW1                                                               
+DIP100T.llb_pad3_1     PULSADOR PEQUE                 SW1                                                               
+DIP100T.llb_pad5_1     PULSADOR PEQUE                 SW1                                                               
+PCON100T.llb_pad1      <unused>                       <unused>                                                          
+PCON100T.llb_pad2      <unused>                       <unused>                                                          
+100R110                <unused>                       <unused>                                                          
+SM.llb_pad35_1         SM/D_0805_12                   D1                                                                
+SM.llb_pad36_1         SM/D_0805_12                   D1                                                                
+SM.llb_pad71_1         <unused>                       <unused>                                                          
+SM.llb_pad70           <unused>                       <unused>                                                          
+24_3_1                 <unused>                       <unused>                                                          
+SM.llb_pad80           <unused>                       <unused>                                                          
+SM.llb_pad81_1         <unused>                       <unused>                                                          
+SOG.llb_pad5_1         <unused>                       <unused>                                                          
+SOG.llb_pad6_1         <unused>                       <unused>                                                          
+SOG.llb_pad7_1         <unused>                       <unused>                                                          
+T1_7_1                 <unused>                       <unused>                                                          
+SM.llb_pad9_1          <unused>                       <unused>                                                          
+SM.llb_pad10_1         <unused>                       <unused>                                                          
+24_6_1                 <unused>                       <unused>                                                          
+24_2_1                 <unused>                       <unused>                                                          
+SIP.llb_pad1           <unused>                       <unused>                                                          
+SIP.llb_pad2           <unused>                       <unused>                                                          
+BCON100T.llb_pad2      CABLE PLANO 2X3                J2                                                                
+BCON100T.llb_pad1      CABLE PLANO 2X3                J2                                                                
+TM_RAD.llb_pad1        CRISTAL HC49                   Y1                                                                
+TO.llb_pad88           TO261AA/SOT223                 U8                                                                
+TO.llb_pad89_1         TO261AA/SOT223                 U8                                                                
+TO.llb_pad90_1         TO261AA/SOT223                 U8                                                                
+TO.llb_pad87           TO261AA/SOT223                 U8                                                                
+QUAD.llb_pad93_1       QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad94_1       QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad95_1       QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad96_1       QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad97_1       QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad98_1       QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad99         QUAD.80M/44/WG12.00            U3                                                                
+QUAD.llb_pad100        QUAD.80M/44/WG12.00            U3                                                                
+T1_1_1_2               <unused>                       <unused>                                                          
+24_9                   <unused>                       <unused>                                                          
+24_1_1_1               <unused>                       <unused>                                                          
+SM.llb_pad5_1-M        SM/C_0805,SM/R_0805            C5,C6,C18,R1,R2,R4,R6,R13,                                        
+                                                      R16,R17,R18                                                       
+SOG.llb_pad5_1-M       SOG.050/8/WG.244/L.200         U2,U4,U5,U7,U9                                                    
+SOG.llb_pad6_1-M       SOG.050/8/WG.244/L.200         U2,U4,U5,U7,U9                                                    
+SOG.llb_pad7_1-M       SOG.050/8/WG.244/L.200         U2,U4,U5,U7,U9                                                    
+SM.llb_pad71_1-M       SM/DO213AB_21                  D2                                                                
+SM.llb_pad70-M         SM/DO213AB_21                  D2                                                                
+24_6_1-M               <unused>                       <unused>                                                          
+T1_1_1_2_1             <unused>                       <unused>                                                          
+T1_1_1_2_1-M           <unused>                       <unused>                                                          
+T1_7_1-M               <unused>                       <unused>                                                          
+24_4_1-M               <unused>                       <unused>                                                          
+24_2_1-M               <unused>                       <unused>                                                          
+SM.llb_pad9_1-M        SM/C_1206                      C1                                                                
+SM.llb_pad10_1-M       SM/C_1206                      C1                                                                
+PCON100T.llb_pad1_1    <unused>                       <unused>                                                          
+PCON100T.llb_pad2_1    <unused>                       <unused>                                                          
+PCON100T.llb_pad1_2    <unused>                       <unused>                                                          
+PCON100T.llb_pad2_2    <unused>                       <unused>                                                          
+SIP.llb_pad1_1         TIRA DE PINES DE 5             J3                                                                
+SIP.llb_pad2_1         TIRA DE PINES DE 5             J3                                                                
+SM.llb_pad80-M         SM/SOT23_BEC                   Q1                                                                
+SM.llb_pad81_1-M       SM/SOT23_BEC                   Q1                                                                
+24_7-M                 <unused>                       <unused>                                                          
+24_3_1-M               <unused>                       <unused>                                                          
+T1_2                   <unused>                       <unused>                                                          
+TM_DIODE.llb_pad11_1_1 <unused>                       <unused>                                                          
+TM_DIODE.llb_pad12_1_1 <unused>                       <unused>                                                          
+24_7_1                 <unused>                       <unused>                                                          
+24_7_1-M               1N4148-SOD123                  D4                                                                
+24_2_1_1               <unused>                       <unused>                                                          
+24_2_1_1-M             <unused>                       <unused>                                                          
+24_3_1_1               CAP10UF16V_REV2                C11                                                               
+24_3_1_1-M             CAP22UF10V_REV2                C17                                                               
+24_1_1_1_1             DC-DC ZY1207_REV1              U6                                                                
+24_2_1_1_1             <unused>                       <unused>                                                          
+24_2_1_1_1-M           MBRS120T3_REV1                 D3                                                                
+24_6_1_1               <unused>                       <unused>                                                          
+24_6_1_1-M             BOBINA DR1030 470UF_REV1       L1                                                                
+T1_1_1_2_1_1           <unused>                       <unused>                                                          
+T1_1_1_2_1_1-M         FUSEHOLDER_PCB2_REV1           F1                                                                
+24_9_1_1               <unused>                       <unused>                                                          
+24_4_1_1               CAP22UF25V_REV1,               C15,C16                                                           
+                       CAP22UF25V_REV2                                                                                  
+24_5_1_1               CAP220UF25V                    C12,C13                                                           
+24_4_1_1-M             CAP22UF25V                     C19                                                               
+24_3_1_1_1             CAP22UF10V                     C10                                                               
+24_3_1_1_1-M           CAP22UF10V                     C14                                                               
+100R110_2              <unused>                       <unused>                                                          
+T1_7_1_1               WT11                           U10                                                               
+100R110_2_1            <unused>                       <unused>                                                          
+100R110_2_1_1          TORNILLO2_M3                   H1,H2,H3,H4,H5                                                    
+24_9_1_1_1             MICROINTERRUPTOR               U1                                                                
+PCON100T.llb_pad1_1_1  MOLEX 2 ACODADO,               J1,J4,J5,J6,J7,J8,J9                                              
+                       MOLEX 3 ACODADO,                                                                                 
+                       MOLEX 4 ACODADO                                                                                  
+PCON100T.llb_pad2_1_1  MOLEX 2 ACODADO,               J1,J4,J5,J6,J7,J8,J9                                              
+                       MOLEX 3 ACODADO,                                                                                 
+                       MOLEX 4 ACODADO                                                                                  

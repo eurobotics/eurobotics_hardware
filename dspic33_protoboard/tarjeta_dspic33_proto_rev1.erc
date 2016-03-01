@@ -1,0 +1,20 @@
+EAGLE Version 4.16r1 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for /media/Datos/Javier/Proyectos/Proyectos 2010/Eurobot 2010/eagle/tarjeta_dspic33_proto/tarjeta_dspic33_proto_rev1.sch at 12/08/2009 01:10:31 
+
+WARNING: Sheet 2/7: unconnected Pin: J1-4 S
+WARNING: Sheet 2/7: unconnected Pin: J2-4 S
+WARNING: Sheet 2/7: POWER Pin IC3 VS connected to +24V
+WARNING: Sheet 2/7: POWER Pin IC5 VS connected to +24V
+WARNING: Sheet 2/7: POWER Pin IC4A V+ connected to +5V_ANALOG
+WARNING: Sheet 2/7: POWER Pin IC4A V- connected to AGND
+WARNING: Sheet 5/7: POWER Pin IC6A V+ connected to +5V_ANALOG
+WARNING: Sheet 5/7: POWER Pin IC6A V- connected to AGND
+ERROR: Sheet 6/7: unconnected INPUT Pin: IC8 T2IN
+ERROR: Sheet 6/7: unconnected INPUT Pin: IC8 R2IN
+WARNING: Sheet 6/7: POWER Pin IC8P VCC connected to +3V3
+
+No board loaded - consistency has not been checked
+
+    2 errors
+    9 warnings
