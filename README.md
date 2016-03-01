@@ -13,9 +13,7 @@ Aclaraciones:
    + bom: listado de materiales.
    + cam: ficheros de fabricación y versión en pdf de versiones de tarjetas fabricadas o de modificaciones en placa realizadas para una edición concreta de Eurobot.
 	
-
-
-A continuación se explican brevemente las tarjetas del repositorio:
+A continuación se explican brevemente las tarjetas del repositorio.
 
 ## dspic22_protoboard
 
