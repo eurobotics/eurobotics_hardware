@@ -1,5 +1,7 @@
-# eurobotics-hardware
+# EuRobotics Engineering Hardware
 Hardware del equipo Eurobotics Enginering para el desarrollo de robots participantes en Eurobot.
+
+<center><img src="./fotos/eurobotics_boards.jpg" width="600" align="center"></center>
 
 Aclaraciones:
 
@@ -15,11 +17,15 @@ Aclaraciones:
 	
 A continuación se explican brevemente las tarjetas del repositorio.
 
-## dspic22_protoboard
+## dsPIC Proboard
+
+<img src="./fotos/eurobotics_boards.jpg" width="200" align = "center">
 
 Tarjeta prototipo basada en microcontrolador dspic33. Características: control motores (DC, Dunkermotoren, servo, AX12), comunicaciones (RS-232, BT, SPI, I2C), sensores (industriales, TTL, laser analógico y encoders en cuadratura), expansaor I2C de 16 E/S. Desarrollada para Eurobot 2010. Diseñada en Eagle (sólo esquematicos). Fabricada sobre tarjeta de prototipos. Es la tarjeta que se utilizó en el robot prototipo, llamado Dumybot, con el que se portó las librerías Aversive.
 
-## mainboard_v01
+## Mainboard V01
+
+<img src="./fotos/mainboard_v01_v02.jpg" width="400" align="center">
 
 Tarjeta principal del robot. Compuesta por dos microcontroladores dspic33 comunicados por I2C, un maestro y un esclavo. El maestro está pensado para implementar la navegación motoriz y estrategia del robot, y el esclavo para controlar la mecánica del robot. 
 
@@ -27,11 +33,13 @@ Conectividad: 3 motores Dunkermotoren a 24V, 2 motores DC de 12V, 1 driver de so
 
 Desarrollada para el robot de Eurobot 2010. Dieño en Eagle (esquematicos y PCB). Tiene varios bugs documentados y solucionados en la versión 2.
 
-## mainboard_v02 
+## Mainboard V02 
 
 Segunda versión de la tarjeta principal de los robots. Tiene algunos bugs y mejoras documentadas. Desarrollada para Eurobot 2012 y utilizada en las ediciones posteriores.
 
-## mainboard_v03 
+## Mainboard V03 
+
+<img src="./fotos/mainboard_v03.jpg" width="200" align="center">
 
 Tercera versión de la tarjeta principal de los robots desarrollada. PCB diseñado por Rubén Espino. Compuesta por un únicao un microcontrolador.
 
@@ -41,14 +49,20 @@ Desarrollada para Eurobot 2014 y utilizada en las ediciones posteriores.
 
 ## beaconboard_v01
 
+<img src="./fotos/eurobotics_boards.jpg" width="400" align = "center">
+
 Electrónica de la baliza desarrollada para Eurobot 2010 por Diego Salazar. Permite el control de 1 motor DC con encoder en cuadratura, la lectura de 2 sensores de tipo Keyence y de 2 sensores opticos de herradura. Permite la comunicación por Bluetooth. Tiene bugs resueltos en placa, pero no todos documentados. Diseño en Orcad (esquemas y PCB).
 
-## sensorboard
+## Sensorboard
+
+<center><img src="./fotos/sensorboard.jpg" width="200" align="center"></center>
 
 Tarjeta de expansión E/S digital por I2C (32 E/S). Desarrollada para Eurobot 2010 y reutilizada en las siguientes ediciones.
 
 
-## swithboard
+## Swithboard
+
+<img src="./fotos/switchboard.jpg" width="200" align = "center">
 
 Tarjeta de distribución de alimentación de los robots. Permite activar de forma independiente las diferentes alimentaciones: 24V, 12V y 5V. Desarrollada para Eurobot 2010 y reutilizada en las siguientes ediciones. Diseño en Eagle (esquemáticos y PCB).
 m3_atx: fuente de alimentación mini ATX. Perminte un rango de alimentación variable y da salidas de +/-12V, 5V y 3.3V.  Se ha utilizado desde Eurobot 2010 para alimentar la electrónica del robot a partir de baterías. Es una tarjeta comercial.
