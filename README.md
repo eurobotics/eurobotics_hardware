@@ -113,8 +113,10 @@ Electrónica de la baliza desarrollada para Eurobot 2010 por Diego Salazar. Perm
 
 ## Licencia
 
-![](./docs/logos/logo_arc.png)
 ![](./docs/logos/logo_eurobotics_eng.png)
+
+![](./docs/logos/logo_arc.png)
+
 
 ![](./docs/licencia/by-sa.png)
 
