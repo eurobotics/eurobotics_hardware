@@ -1,7 +1,7 @@
 # EuRobotics Engineering Hardware
 Hardware del equipo Eurobotics Enginering para el desarrollo de robots participantes en Eurobot.
 
-![](./fotos/eurobotics_boards.jpg)
+![](./docs/fotos_tarjetas/eurobotics_boards.jpg)
 
 ## Organización
 
@@ -19,13 +19,13 @@ A continuación se explican brevemente las tarjetas del repositorio.
 
 ## dsPIC Proboard
 
-![](./fotos/eurobotics_boards.jpg)
+![](./dspic33_protoboard/cam/dspic33_protoboard.JPG)
 
 Tarjeta prototipo basada en microcontrolador dspic33. Características: control motores (DC, Dunkermotoren, servo, AX12), comunicaciones (RS-232, BT, SPI, I2C), sensores (industriales, TTL, laser analógico y encoders en cuadratura), expansaor I2C de 16 E/S. Desarrollada para Eurobot 2010. Diseñada en Eagle (sólo esquematicos). Fabricada sobre tarjeta de prototipos. Es la tarjeta que se utilizó en el robot prototipo, llamado Dumybot, con el que se portó las librerías Aversive.
 
 ## Mainboard V01
 
-![](./fotos/mainboard_v01_v02.JPG)
+![](./docs/fotos_tarjetas/mainboard_v01_v02.JPG)
 
 Tarjeta principal del robot. Compuesta por dos microcontroladores dspic33 comunicados por I2C, un maestro y un esclavo. El maestro está pensado para implementar la navegación motoriz y estrategia del robot, y el esclavo para controlar la mecánica del robot. 
 
@@ -39,7 +39,7 @@ Segunda versión de la tarjeta principal de los robots. Tiene algunos bugs y mej
 
 ## Mainboard V03 
 
-![](./fotos/mainboard_v03.jpg)
+![](./docs/fotos_tarjetas/mainboard_v03.jpg)
 
 Tercera versión de la tarjeta principal de los robots desarrollada. PCB diseñado por Rubén Espino. Compuesta por un únicao un microcontrolador.
 
@@ -47,30 +47,49 @@ Conectividad: 3 motores DC de 12V, 4 servos standar, servos AX12, 2 encoders con
 
 Desarrollada para Eurobot 2014 y utilizada en las ediciones posteriores.
 
-## Beaconboard
-
-![](./fotos/eurobotics_boards.jpg)
-
-Electrónica de la baliza desarrollada para Eurobot 2010 por Diego Salazar. Permite el control de 1 motor DC con encoder en cuadratura, la lectura de 2 sensores de tipo Keyence y de 2 sensores opticos de herradura. Permite la comunicación por Bluetooth. Tiene bugs resueltos en placa, pero no todos documentados. Diseño en Orcad (esquemas y PCB).
-
 ## Sensorboard
 
-![](./fotos/sensorboard.JPG)
+![](./docs/fotos_tarjetas/sensorboard.JPG)
 
 Tarjeta de expansión E/S digital por I2C (32 E/S). Desarrollada para Eurobot 2010 y reutilizada en las siguientes ediciones.
 
 
 ## Swithboard
 
-![](./fotos/switchboard.JPG)
+![](./docs/fotos_tarjetas/switchboard.JPG)
 
 Tarjeta de distribución de alimentación de los robots. Permite activar de forma independiente las diferentes alimentaciones: 24V, 12V y 5V. Desarrollada para Eurobot 2010 y reutilizada en las siguientes ediciones. Diseño en Eagle (esquemáticos y PCB).
 m3_atx: fuente de alimentación mini ATX. Perminte un rango de alimentación variable y da salidas de +/-12V, 5V y 3.3V.  Se ha utilizado desde Eurobot 2010 para alimentar la electrónica del robot a partir de baterías. Es una tarjeta comercial.
 
+## Vacuumboard
+
+Tarjeta de control de hasta 4 electrovalvulas y 4 bombas de vacio.
+
+![](./docs/fotos_tarjetas/vacuumboard.jpg)
+
+## M4 ATX
+
+Fuente de alimentación comercial mini ATX. Entrada 12-24V salidas reguladas de 3.3V, 5V y 12V.
+
+![](./docs/fotos_tarjetas/m4_atx.JPG)
+
+## Beaconboard
+
+Electrónica de la baliza desarrollada para Eurobot 2010 por Diego Salazar. Permite el control de 1 motor DC con encoder en cuadratura, la lectura de 2 sensores de tipo Keyence y de 2 sensores opticos de herradura. Permite la comunicación por Bluetooth. Tiene bugs resueltos en placa, pero no todos documentados. Diseño en Orcad (esquemas y PCB).
+
+![](./docs/fotos_tarjetas/eurobotics_boards.jpg)
+
+## Autores
+
+* Javier Baliñas Santos
+* Diego Salazar Arcucci
+* Rubén Espino San José
+
 ## License
 
-![](./by-sa.png)
-![](./by-sa.png)
+![](./docs/logos/logo_arc.png)
+![](./docs/logos/logo_eurobotics.png)
+![](./docs/licencia/by-sa.png)
 
 All these products are released under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
