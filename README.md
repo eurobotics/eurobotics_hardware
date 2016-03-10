@@ -84,17 +84,18 @@ Tarjeta de expansión E/S digital por I2C (32 E/S). Desarrollada para Eurobot 20
 
 ![](./docs/fotos_tarjetas/switchboard.jpg)
 
-Tarjeta de distribución de alimentación de los robots. Permite activar de forma independiente las diferentes alimentaciones: 24V, 12V y 5V. Desarrollada para Eurobot 2010 y reutilizada en las siguientes ediciones. Diseño en Eagle (esquemáticos y PCB).
-m3_atx: fuente de alimentación mini ATX. Perminte un rango de alimentación variable y da salidas de +/-12V, 5V y 3.3V.  Se ha utilizado desde Eurobot 2010 para alimentar la electrónica del robot a partir de baterías. Es una tarjeta comercial.
+Tarjeta de distribución de alimentación de los robots. Permite activar de forma independiente las diferentes alimentaciones del robot: 24V, 12V y 5V. Desarrollada para Eurobot 2010 y reutilizada en las siguientes ediciones. Diseño en Eagle (esquemáticos y PCB).
 
 ## Vacuumboard
 
 Tarjeta de control de hasta 4 electrovalvulas y 4 bombas de vacio.
 
+![](./docs/fotos_tarjetas/vacuumboard.jpg)
+
 
 ## M4 ATX
 
-Fuente de alimentación comercial mini ATX. Entrada 12-24V salidas reguladas de 3.3V, 5V y 12V.
+Fuente de alimentación mini ATX. Perminte un rango de alimentación variable y da salidas de +/-12V, 5V y 3.3V.  Se ha utilizado desde Eurobot 2010 para alimentar la electrónica del robot a partir de baterías. Es una tarjeta comercial.
 
 ![](./docs/fotos_tarjetas/m4_atx.jpg)
 
