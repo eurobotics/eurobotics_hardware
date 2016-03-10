@@ -16,7 +16,7 @@ Hardware del equipo Eurobotics Enginering para el desarrollo de robots participa
    + cam: ficheros de fabricación y versión en pdf de versiones de tarjetas fabricadas o de modificaciones en placa realizadas para una edición concreta de Eurobot.
 	
 
-## dsPIC Proboard
+## dsPIC Protoboard
 
 Tarjeta prototipo basada en microcontrolador dspic33. Desarrollada para Eurobot 2010. Diseñada en Eagle (sólo esquematicos). Fabricada sobre tarjeta de prototipos. Es la tarjeta que se utilizó en el robot prototipo, llamado Dumybot, con el que se portó las librerías Aversive.
 
