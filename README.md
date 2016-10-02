@@ -160,11 +160,9 @@ Fuente de alimentación mini ATX. Perminte un rango de alimentación variable y 
 
 ## Licencia
 
-<p align="center">
 ![](./docs/logos/logo_eurobotics_eng.png)
 ![](./docs/logos/logo_arc.png)
 ![](./docs/licencia/by-sa.png)
-</p>
 
 Todos estos productos están liberados mediante [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).  
 _All these products are released under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)._
